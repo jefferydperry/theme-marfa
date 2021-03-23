@@ -24,7 +24,8 @@ html, body {
 
 /* JP - Consider Editing font to something more monospace */ 
 body {
-	font: 17px "Avenir Next", Avenir, "-apple-system", Helvetica, Arial, sans-serif;
+	font-family: 17px 'Roboto Mono', monospace;
+	/* font: 17px "Avenir Next", Avenir, "-apple-system", Helvetica, Arial, sans-serif; */
 	color: #666;
 	text-rendering: optimizeLegibility;
 }
